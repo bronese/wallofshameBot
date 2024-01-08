@@ -1,0 +1,3 @@
+configparser
+py-cord
+requests
